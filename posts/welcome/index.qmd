@@ -1,0 +1,11 @@
+---
+title: "Let's Start"
+author: "Aman"
+date: "2024-08-03"
+categories: [views]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](thumbnail.jpg)
+
